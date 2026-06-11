@@ -19,7 +19,7 @@ Full stack developer with years of hands-on experience building end-to-end web a
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/spring-boot-dark.svg">
     <img alt="Spring Boot — Backend" src="assets/cards/spring-boot-light.svg" width="178" height="52">
   </picture></a>
-  <a href="https://openjdk.org"><picture>
+  <a href="https://dev.java"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/java-dark.svg">
     <img alt="Java — Language" src="assets/cards/java-light.svg" width="178" height="52">
   </picture></a>
