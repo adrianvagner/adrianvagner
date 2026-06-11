@@ -12,51 +12,69 @@ Power user of **AI coding agents** (Claude Code, Codex) — agent-driven workflo
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/languages-dark.svg">
+  <img alt="Languages and Frameworks" src="assets/sections/languages-light.svg" width="272" height="20">
+</picture>
 <p>
-  <a href="https://angular.dev"><picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/angular-dark.svg">
     <img alt="Angular — Frontend" src="assets/cards/angular-light.svg" width="178" height="52">
-  </picture></a>
-  <a href="https://spring.io/projects/spring-boot"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/spring-boot-dark.svg">
-    <img alt="Spring Boot — Backend" src="assets/cards/spring-boot-light.svg" width="178" height="52">
-  </picture></a>
-  <a href="https://dev.java"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/java-dark.svg">
-    <img alt="Java — Language" src="assets/cards/java-light.svg" width="178" height="52">
-  </picture></a>
-  <a href="https://jakarta.ee/specifications/faces/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/jsf-dark.svg">
-    <img alt="JSF — JavaServer Faces" src="assets/cards/jsf-light.svg" width="178" height="52">
-  </picture></a>
-  <a href="https://nodejs.org"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/nodejs-dark.svg">
-    <img alt="Node.js — Runtime" src="assets/cards/nodejs-light.svg" width="178" height="52">
-  </picture></a>
-  <a href="https://nextjs.org"><picture>
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/nextjs-dark.svg">
     <img alt="Next.js — React framework" src="assets/cards/nextjs-light.svg" width="178" height="52">
-  </picture></a>
-  <a href="https://www.docker.com"><picture>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/spring-boot-dark.svg">
+    <img alt="Spring Boot — Backend" src="assets/cards/spring-boot-light.svg" width="178" height="52">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/java-dark.svg">
+    <img alt="Java — Language" src="assets/cards/java-light.svg" width="178" height="52">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/jsf-dark.svg">
+    <img alt="JSF — JavaServer Faces" src="assets/cards/jsf-light.svg" width="178" height="52">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/nodejs-dark.svg">
+    <img alt="Node.js — Runtime" src="assets/cards/nodejs-light.svg" width="178" height="52">
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/infra-dark.svg">
+  <img alt="Infrastructure and Data" src="assets/sections/infra-light.svg" width="255" height="20">
+</picture>
+<p>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/docker-dark.svg">
     <img alt="Docker — Containers" src="assets/cards/docker-light.svg" width="178" height="52">
-  </picture></a>
-  <a href="https://www.postgresql.org"><picture>
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/postgresql-dark.svg">
     <img alt="PostgreSQL — Database" src="assets/cards/postgresql-light.svg" width="178" height="52">
-  </picture></a>
-  <a href="https://github.com/features/actions"><picture>
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/cicd-dark.svg">
     <img alt="CI/CD — GitHub Actions" src="assets/cards/cicd-light.svg" width="178" height="52">
-  </picture></a>
-  <a href="https://claude.com/claude-code"><picture>
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/ai-dark.svg">
+  <img alt="AI Tooling" src="assets/sections/ai-light.svg" width="180" height="20">
+</picture>
+<p>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/claude-dark.svg">
     <img alt="Claude Code — AI agent" src="assets/cards/claude-light.svg" width="178" height="52">
-  </picture></a>
-  <a href="https://openai.com/codex"><picture>
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/codex-dark.svg">
     <img alt="Codex — AI agent" src="assets/cards/codex-light.svg" width="178" height="52">
-  </picture></a>
+  </picture>
 </p>
 
 <br>
