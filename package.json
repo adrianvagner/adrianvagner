@@ -1,0 +1,12 @@
+{
+  "name": "adrianvagner-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-stack.mjs"
+  },
+  "devDependencies": {
+    "opentype.js": "^1.3.4",
+    "simple-icons": "^15.0.0"
+  }
+}
