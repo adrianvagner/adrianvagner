@@ -6,7 +6,7 @@
 <br>
 
 Full stack developer with years of hands-on experience building end-to-end web applications —
-**Angular** on the frontend, **Spring Boot** on the backend, containerized with **Docker** and shipped through fully automated **CI/CD** pipelines.
+**Angular** and **React** on the frontend, **Spring Boot** on the backend, containerized with **Docker** and shipped through fully automated **CI/CD** pipelines.
 
 Power user of **AI coding agents** (Claude Code, Codex) — agent-driven workflows, environment configuration and automation — and equally at home maintaining and modernizing legacy Java stacks like **JSF**.
 
@@ -20,6 +20,10 @@ Power user of **AI coding agents** (Claude Code, Codex) — agent-driven workflo
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/angular-dark.svg">
     <img alt="Angular — Frontend" src="assets/cards/angular-light.svg" width="178" height="52">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/react-dark.svg">
+    <img alt="React — UI library" src="assets/cards/react-light.svg" width="178" height="52">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/nextjs-dark.svg">

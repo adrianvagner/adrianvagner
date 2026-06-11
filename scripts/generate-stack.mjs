@@ -14,6 +14,7 @@ import {
   siSpringboot,
   siNodedotjs,
   siNextdotjs,
+  siReact,
   siDocker,
   siPostgresql,
   siGithubactions,
@@ -56,6 +57,7 @@ const SECTIONS = [
     title: 'Languages & Frameworks',
     cards: [
       { id: 'angular', icon: siAngular, title: 'Angular', sub: 'Frontend', color: { light: '#DD0031', dark: '#DD0031' } },
+      { id: 'react', icon: siReact, title: 'React', sub: 'UI library', color: { light: '#087EA4' } },
       { id: 'nextjs', icon: siNextdotjs, title: 'Next.js', sub: 'React framework', color: { dark: '#e6edf3' } },
       { id: 'spring-boot', icon: siSpringboot, title: 'Spring Boot', sub: 'Backend' },
       { id: 'java', icon: javaCup, title: 'Java', sub: 'Language', color: { dark: '#4d9fdb' } },
