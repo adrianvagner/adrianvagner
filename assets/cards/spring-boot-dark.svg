@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="178" height="52" viewBox="0 0 178 52" role="img" aria-label="Spring Boot — Backend">
 <title>Spring Boot — Backend</title>
 <style>
-.card { opacity: 0; transform: translateY(4px); animation: in .5s ease-out 0.20s forwards; }
+.card { opacity: 0; transform: translateY(4px); animation: in .5s ease-out 0.25s forwards; }
 @keyframes in { to { opacity: 1; transform: translateY(0); } }
 @media (prefers-reduced-motion: reduce) { .card { animation: none; opacity: 1; transform: none; } }
 </style>

@@ -30,6 +30,10 @@ Power user of **AI coding agents** (Claude Code, Codex) — agent-driven workflo
     <img alt="Next.js — React framework" src="assets/cards/nextjs-light.svg" width="178" height="52">
   </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/typescript-dark.svg">
+    <img alt="TypeScript — Language" src="assets/cards/typescript-light.svg" width="178" height="52">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/spring-boot-dark.svg">
     <img alt="Spring Boot — Backend" src="assets/cards/spring-boot-light.svg" width="178" height="52">
   </picture>
@@ -59,6 +63,10 @@ Power user of **AI coding agents** (Claude Code, Codex) — agent-driven workflo
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/postgresql-dark.svg">
     <img alt="PostgreSQL — Database" src="assets/cards/postgresql-light.svg" width="178" height="52">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/aws-dark.svg">
+    <img alt="AWS — Cloud services" src="assets/cards/aws-light.svg" width="178" height="52">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/cicd-dark.svg">
