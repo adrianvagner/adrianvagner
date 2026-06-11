@@ -5,10 +5,9 @@
 
 <br>
 
-Full stack developer with years of hands-on experience building end-to-end web applications —
-**Angular** and **React** on the frontend, **Spring Boot** on the backend, containerized with **Docker** and shipped through fully automated **CI/CD** pipelines.
+Full stack developer with years of experience building web apps end to end. I use **Angular** and **React** on the frontend, **Spring Boot** on the backend, package everything with **Docker**, and ship through automated **CI/CD** pipelines.
 
-Power user of **AI coding agents** (Claude Code, Codex) — agent-driven workflows, environment configuration and automation — and equally at home maintaining and modernizing legacy Java stacks like **JSF**.
+I work a lot with **AI coding agents** like Claude Code and Codex (agent-driven workflows, environment setup, automation), and I still spend plenty of time maintaining and modernizing older Java stacks like **JSF**.
 
 <br>
 
