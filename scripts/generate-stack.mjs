@@ -16,6 +16,8 @@ import {
   siDocker,
   siPostgresql,
   siGithubactions,
+  siClaude,
+  siOpenai,
 } from 'simple-icons';
 
 // Classic Java coffee cup from devicon (MIT) — simple-icons doesn't ship it
@@ -44,11 +46,14 @@ const CARDS = [
   { id: 'angular', icon: siAngular, title: 'Angular', sub: 'Frontend', href: 'https://angular.dev', color: { light: '#DD0031', dark: '#DD0031' } },
   { id: 'spring-boot', icon: siSpringboot, title: 'Spring Boot', sub: 'Backend', href: 'https://spring.io/projects/spring-boot' },
   { id: 'java', icon: javaCup, title: 'Java', sub: 'Language', href: 'https://dev.java', color: { dark: '#4d9fdb' } },
+  { id: 'jsf', icon: javaCup, title: 'JSF', sub: 'JavaServer Faces', href: 'https://jakarta.ee/specifications/faces/', color: { light: '#E76F00', dark: '#f08c2e' } },
   { id: 'nodejs', icon: siNodedotjs, title: 'Node.js', sub: 'Runtime', href: 'https://nodejs.org' },
   { id: 'nextjs', icon: siNextdotjs, title: 'Next.js', sub: 'React framework', href: 'https://nextjs.org', color: { dark: '#e6edf3' } },
   { id: 'docker', icon: siDocker, title: 'Docker', sub: 'Containers', href: 'https://www.docker.com' },
   { id: 'postgresql', icon: siPostgresql, title: 'PostgreSQL', sub: 'Database', href: 'https://www.postgresql.org' },
   { id: 'cicd', icon: siGithubactions, title: 'CI/CD', sub: 'GitHub Actions', href: 'https://github.com/features/actions' },
+  { id: 'claude', icon: siClaude, title: 'Claude Code', sub: 'AI agent', href: 'https://claude.com/claude-code' },
+  { id: 'codex', icon: siOpenai, title: 'Codex', sub: 'AI agent', href: 'https://openai.com/codex', color: { dark: '#e6edf3' } },
 ];
 
 const W = 178;

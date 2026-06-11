@@ -8,6 +8,8 @@
 Full stack developer with years of hands-on experience building end-to-end web applications —
 **Angular** on the frontend, **Spring Boot** on the backend, containerized with **Docker** and shipped through fully automated **CI/CD** pipelines.
 
+Power user of **AI coding agents** (Claude Code, Codex) — agent-driven workflows, environment configuration and automation — and equally at home maintaining and modernizing legacy Java stacks like **JSF**.
+
 <br>
 
 <p>
@@ -22,6 +24,10 @@ Full stack developer with years of hands-on experience building end-to-end web a
   <a href="https://dev.java"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/java-dark.svg">
     <img alt="Java — Language" src="assets/cards/java-light.svg" width="178" height="52">
+  </picture></a>
+  <a href="https://jakarta.ee/specifications/faces/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/jsf-dark.svg">
+    <img alt="JSF — JavaServer Faces" src="assets/cards/jsf-light.svg" width="178" height="52">
   </picture></a>
   <a href="https://nodejs.org"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/nodejs-dark.svg">
@@ -42,6 +48,14 @@ Full stack developer with years of hands-on experience building end-to-end web a
   <a href="https://github.com/features/actions"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/cicd-dark.svg">
     <img alt="CI/CD — GitHub Actions" src="assets/cards/cicd-light.svg" width="178" height="52">
+  </picture></a>
+  <a href="https://claude.com/claude-code"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/claude-dark.svg">
+    <img alt="Claude Code — AI agent" src="assets/cards/claude-light.svg" width="178" height="52">
+  </picture></a>
+  <a href="https://openai.com/codex"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/codex-dark.svg">
+    <img alt="Codex — AI agent" src="assets/cards/codex-light.svg" width="178" height="52">
   </picture></a>
 </p>
 
